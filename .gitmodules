@@ -1,0 +1,6 @@
+[submodule "pkg/dwm"]
+	path = pkg/dwm
+	url = git@github.com:edclements/dwm-archlinux.git
+[submodule "pkg/hedalth-base"]
+	path = pkg/hedalth-base
+	url = git@github.com:edclements/hedalth-base-archlinux.git
