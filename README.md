@@ -13,3 +13,4 @@ Server = https://arch.hedaleth.net
 * Use make
 * Add st
 * Search pkg for dependencies instead of specifying in build.sh
+* Automatically update index.html
